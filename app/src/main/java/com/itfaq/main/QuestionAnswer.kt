@@ -9,6 +9,7 @@ import java.util.*
 class QuestionAnswer {
     val TAG = QuestionAnswer::class.java.simpleName
 
+
     init {
         answer1()
         answer2()
